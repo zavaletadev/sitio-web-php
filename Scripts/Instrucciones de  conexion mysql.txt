@@ -1,0 +1,15 @@
+-- Desde terminal / Power Shell / Simbolos del sistema:
+mysql -h 204.44.192.59  –u zaval846_usconfdb –p
+**Escribimos la contraseña** uPG3WUAd
+
+-- Seleccionamos la base de datos
+use  zaval846_confdb;
+
+-- Visualizamos todas las tablas
+show tables;
+
+-- Visualizamos la estructura de cada tabla
+desc [NOMBRE_TABLA];
+
+-- Visualizamos el contenido cada tabla
+SELECT * FROM [NOMBRE_TABLA];

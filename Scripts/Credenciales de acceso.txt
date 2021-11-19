@@ -1,0 +1,15 @@
+**** MySQL ****
+Servidor 
+204.44.192.59
+
+Usuario
+zaval846_usconfdb
+
+Contraseña 
+uPG3WUAd
+
+
+**** FIREBASE ****
+zaval846.usconfdb@gmail.com
+uPG3WUAd
+
